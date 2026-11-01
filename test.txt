@@ -1,0 +1,1 @@
+tuic://5f12b64f-9b88-4a53-a82f-e7f0be6deec9:bhrpdh308lnazmr7@[2a14:1e00:1:bee::].124:59372?allow_insecure=0&alpn=h3%2Cspdy%2F3.1&congestion_control=bbr&udp_relay_mode=native#NL%20-%20tuic-Netherlands-124
